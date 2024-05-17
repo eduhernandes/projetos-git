@@ -79,6 +79,7 @@ const hideInformation = () => {
 const showErrorMessage = (city) => {
     cityErrorElment.innerText = city; 
     errorMessageContainer.classList.remove("hide");
+    document.body.style.backgroundImage.
   };
 
 //Eventos
